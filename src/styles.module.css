@@ -1,9 +1,8 @@
-/* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
+.btn {
   text-align: center;
+  background-color: dodgerblue;
+  color:antiquewhite;
+  align-items: center;
+  justify-content: center;
 }
